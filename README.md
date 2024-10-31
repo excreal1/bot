@@ -4,4 +4,4 @@
 npm install node-fetch dotenv discord.js
 
 # Run the bot
-npm index.js
+node index.js
