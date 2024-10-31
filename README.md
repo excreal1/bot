@@ -8,8 +8,11 @@ npm install node-fetch dotenv discord.js
 
 #Create a .env file and add the following:
 ```
-DISCORD_TOKEN=
-GUILD_ID=
+#1Password CLI
+DISCORD_TOKEN="op://dev/discord token/token"
+
+GUILD_ID="op://dev/GUILD_ID/GUILD_ID"
+
 ```
 
 ```
