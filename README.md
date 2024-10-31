@@ -14,6 +14,9 @@ GUILD_ID=
 
 ```
 # Run the bot
-node index.js
+# Make sure to have 1Password CLI installed
+# Also modify .env file with your Discord credentials from 1password
+
+npm start
 ```
 
